@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>92635E00-FA17-4F69-A235-69EA51960999</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QRreadTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CB8DE4BC-BC92-4F3F-8B5C-D0B0A1760AF1</key>
+		<string>https://github.com/taisuke2963/QRreadTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QRreadTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CB8DE4BC-BC92-4F3F-8B5C-D0B0A1760AF1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/taisuke2963/QRreadTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CB8DE4BC-BC92-4F3F-8B5C-D0B0A1760AF1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB8DE4BC-BC92-4F3F-8B5C-D0B0A1760AF1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QRreadTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
